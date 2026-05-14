@@ -1,4 +1,4 @@
-CREATE DATABASE Ktracuoimuon02;
+CREATE DATABASE Ktracuoimon02;
 USE Ktracuoimon02;
  
  -- PHẦN 1: 
